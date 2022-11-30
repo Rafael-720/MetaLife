@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "metalife",
+    "slug": "metalife",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
